@@ -1,0 +1,3 @@
+# JavaBasic
+
+JAVA is awesome.
